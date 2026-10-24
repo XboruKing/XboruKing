@@ -2,13 +2,25 @@
 
 <table>
 <tr>
-<td align="center"><sub><b>FRONTEND</b><br/>React · Next.js · TypeScript<br/>Tailwind CSS · React Native</sub></td>
-<td align="center"><sub><b>BACKEND</b><br/>Laravel · Spring Boot<br/>Express.js · Python</sub></td>
-<td align="center"><sub><b>DATA & DEVOPS</b><br/>PostgreSQL · Docker<br/>Git · GitHub</sub></td>
+<td align="center" valign="top">
+<sub><b>FRONTEND</b></sub><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,figma&perline=3" alt="Frontend stack" /><br/>
+<sub>React · Next.js · TypeScript · JavaScript<br/>Tailwind CSS · Figma · React Native</sub>
+</td>
+<td align="center" valign="top">
+<sub><b>BACKEND</b></sub><br/><br/>
+<img src="https://skillicons.dev/icons?i=laravel,php,spring,java,express,py&perline=3" alt="Backend stack" /><br/>
+<sub>Laravel · PHP · Spring Boot<br/>Java · Express.js · Python</sub>
+</td>
+<td align="center" valign="top">
+<sub><b>DATA & DEVOPS</b></sub><br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github&perline=2" alt="Data and DevOps stack" /><br/>
+<sub>PostgreSQL · Docker<br/>Git · GitHub</sub>
+</td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ff2e93,100:ffd700&text=OUSSAMA&fontSize=84&fontColor=ffffff&fontAlignY=42&desc=EL%20BOUZIDI&descAlignY=66&descSize=30&stroke=ff2e93&strokeWidth=2" alt="Oussama El Bouzidi" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1d4ed8,100:60a5fa&text=OUSSAMA&fontSize=84&fontColor=ffffff&fontAlignY=42&desc=EL%20BOUZIDI&descAlignY=66&descSize=30" alt="Oussama El Bouzidi" />
 
 ### FULL STACK DEVELOPER · WEB & MOBILE
 
@@ -16,8 +28,8 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-oussamaelbouzidi.vercel.app-ff2e93?style=for-the-badge&logo=vercel&logoColor=white)](https://oussamaelbouzidi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Oussama_El_Bouzidi-ffd700?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/oussama-el-bouzidi)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-oussamaelbouzidi.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white)](https://oussamaelbouzidi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Oussama_El_Bouzidi-1e3a8a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-el-bouzidi)
 
 </div>
 
@@ -59,6 +71,6 @@ A web platform that lets craftsmen (carpenters, mechanics, technicians) create a
 <br/><br/>
 <sub>Reach out through my <a href="https://oussamaelbouzidi.vercel.app">portfolio</a> or <a href="https://www.linkedin.com/in/oussama-el-bouzidi">LinkedIn</a></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:ffd700,100:ff2e93&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:60a5fa,100:1d4ed8&section=footer" alt="footer" />
 
 </div>
