@@ -3,7 +3,7 @@
 <img src="assets/banner.svg" alt="Oussama El Bouzidi, Full Stack Developer" width="100%" />
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-oussamaelbouzidi.vercel.app-2438c9?style=for-the-badge&logo=vercel&logoColor=white)](https://oussamaelbouzidi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Oussama_El_Bouzidi-0a1f5c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-el-bouzidi)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Oussama_El_Bouzidi-0a1f5c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-el-bouzidi-2a576941b)
 
 <sub>ゴ ゴ ゴ ゴ ゴ</sub>
 
@@ -85,7 +85,7 @@ A web platform that lets craftsmen (carpenters, mechanics, technicians) create a
 
 Internships · Junior positions · Web & mobile projects
 
-[Get in touch →](https://www.linkedin.com/in/oussama-el-bouzidi)
+[Get in touch →](https://www.linkedin.com/in/oussama-el-bouzidi-2a576941b)
 
 </td>
 </tr>
